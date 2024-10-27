@@ -39,4 +39,8 @@ Ispis dole vam treba poslužiti za kreiranje metoda `printDeveloperData`. Metoda
 - **Ibrahim** je backend programer koji koristi **Java** i **Spring**.
 - **Emina** je frontend programer koji koristi **Kotlin** i **React**.
 - **Mujo** je frontend programer koji koristi **JavaScript** i **Vue.js**.
-- **Edin** je backend programer koji koristi **Kotlin** i **Ktor**.
+- **Edin** je backend programer koji koristi **Kotlin** i **Ktor** 
+
+
+
+
