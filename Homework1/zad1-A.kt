@@ -25,7 +25,7 @@ class BackendDeveloper (name : String, srname : String, age : Int, ctry : Int, p
 class FrontendDeveloper ( name : String, srname : String, age : Int, ctry : Int, progLang : List<String>, val frontendFramework : String) : Developer (name, srname, agre, ctry, progLang) {
 
     fun printDeveloperData(){
-        println("$name je backend programer koji koristi $progLang" , $frontendFramework)
+        println("$name je frontend programer koji koristi $progLang" , $frontendFramework)
     }
 }
 
